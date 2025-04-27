@@ -17,7 +17,7 @@ View Demo (Optional: replace with your deployed link)
 
 ## 📁 Folder Structure
 
-```
+```txt
 project-root/
 │
 ├── index.html    # Main HTML file
@@ -31,7 +31,7 @@ To get this project running locally:
 
 Clone the repo:
 
-```txt
+```bash
 git clone https://github.com/yourusername/product-landing-page.git
 cd product-landing-page
 ```
