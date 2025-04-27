@@ -60,15 +60,6 @@ Edit as needed: Customize text, styles, or pricing details.
 
 ![Product Landing Page](images/product-landing-page.png)
 
-<!-- ## 🤝 Contributing
-
-Pull requests are welcome!
-For major changes, please open an issue first to discuss what you would like to change or improve.
-
-## 📝 License
-
-This project is open-source under the MIT License. -->
-
 ## 👨‍💻 Author
 
 Razeen
