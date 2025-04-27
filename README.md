@@ -58,7 +58,7 @@ Edit as needed: Customize text, styles, or pricing details.
 
 ## 📸 Screenshots
 
-![Product Landing Page](images/product-landing-page.png)
+![Product Landing Page](assets/product-landing-page.png)
 
 ## 👨‍💻 Author
 
